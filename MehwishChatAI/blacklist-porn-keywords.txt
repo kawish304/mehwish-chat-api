@@ -1,0 +1,61 @@
+🔴 Blacklisted Pornographic Keywords (Do Not Allow / Block These)
+
+# All words in lowercase for case-insensitive matching
+
+sex
+porn
+pornhub
+xxx
+xvideos
+xnxx
+nude
+nudity
+boobs
+breasts
+erotic
+fetish
+bdsm
+anal
+oral
+blowjob
+cum
+climax
+masturbate
+masturbation
+strip
+stripping
+adult movie
+18+
+sex chat
+live cam
+onlyfans
+escort
+call girl
+sex video
+naked
+hot girl
+sexy
+threesome
+hentai
+incest
+lust
+orgasm
+pussy
+penis
+vagina
+nsfw
+explicit
+dirty talk
+sensual
+foreplay
+sex toy
+camgirl
+desi porn
+gay sex
+lesbian
+trans porn
+porn actress
+...
+
+⚠️ Add More Words as Needed to Stay Updated
+✅ Use this file to block user input or content generation in any AI/SEO system.

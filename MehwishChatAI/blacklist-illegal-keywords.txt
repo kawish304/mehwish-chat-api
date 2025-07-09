@@ -1,0 +1,77 @@
+🔴 Blacklisted Illegal, Haram, and Dangerous Keywords (DO NOT ALLOW)
+
+# Weapons and Explosives
+bomb
+make a bomb
+how to make a bomb
+atomic bomb
+nuclear bomb
+molotov
+explosive
+dynamite
+grenade
+missile
+rocket launcher
+landmine
+terrorist bomb
+weapon
+gun
+sniper
+assault rifle
+pistol
+ak47
+kalashnikov
+bullet
+ammo
+silencer
+
+# Drugs
+cocaine
+heroin
+meth
+marijuana
+hash
+weed
+how to make drugs
+drug recipe
+injectable
+ecstasy
+lsd
+narcotics
+crack
+opium
+
+# Alcohol and Haram Drinks
+alcohol
+beer
+vodka
+whiskey
+rum
+wine
+liquor
+cocktail
+drunk
+bar
+pub
+bottle of whiskey
+
+# Illegal Services / Activities
+hitman
+buy weapon
+hire killer
+dark web
+hacking tools
+credit card scam
+bank hack
+fake passport
+fake ID
+blackmail
+ransomware
+cyber attack
+ddos
+virus code
+
+⚠️ All keywords are lowercase — use `.lower()` in code for matching.
+❌ Block in prompts, SEO search, chatbot inputs, funnel entries.
+
+✅ File Created for Halal Compliance and Legal AI Projects only.

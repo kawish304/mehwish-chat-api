@@ -1,0 +1,81 @@
+🌌 Mehwish Chat AI – Space & Galaxy Educational Content (Legal & Multilingual)
+
+🔭 Purpose:
+✅ Educational-only module
+✅ Support for school/college/university level
+✅ Content must be sourced from public legal data like NASA, ESA, ISS, and approved science portals
+
+---
+
+🌐 Topics to Include:
+
+1. Galaxy types (Spiral, Elliptical, Irregular)
+2. Milky Way structure and facts
+3. Black Holes (concept, event horizon)
+4. Supernova & Star life cycles
+5. Nebulae (types and examples)
+6. Planets and Moons (Solar System)
+7. Universe expansion theory
+8. Time and Light year calculation
+9. Space Missions (NASA, SpaceX, ISRO)
+10. Telescopes and Satellites
+11. James Webb Space Telescope (JWST)
+12. Mars Missions (Perseverance, Chandrayaan-3)
+13. Space Stations (ISS)
+14. Rocket Science Basics
+15. Solar Flares, Sunspots, Aurora
+16. Legal astronaut training
+17. Legal satellites usage
+
+---
+
+🧪 Education Mode Only (NO illegal/weapon content)
+
+❌ Block the following:
+
+- how to make a bomb
+- rocket fuel at home
+- nuclear missile design
+- weapon-grade uranium
+- orbital strike system
+- anti-satellite weapon
+- stealth satellite code
+
+---
+
+📦 Allowed Sources:
+
+- https://www.nasa.gov/
+- https://www.esa.int/
+- https://spaceplace.nasa.gov/
+- https://solarsystem.nasa.gov/
+- https://www.isro.gov.in/
+- Wikipedia (education-only references)
+
+---
+
+🌍 Languages to Support:
+
+✅ Urdu  
+✅ English  
+✅ Arabic  
+✅ Hindi  
+✅ Chinese  
+✅ Spanish  
+✅ French  
+✅ Turkish  
+✅ Bengali  
+✅ Swahili  
+(✔️ Expandable to 100+)
+
+---
+
+📎 Structure Example:
+
+```json
+{
+  "topic": "Black Hole",
+  "urdu": "بلیک ہول خلا میں ایک مظبوط کشش رکھتا ہے...",
+  "english": "A black hole is a region of space with strong gravity...",
+  "source": "nasa.gov"
+}

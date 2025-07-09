@@ -1,0 +1,92 @@
+🔒 Blocked or Restricted Terms for Legal, Halal & Safe AI
+
+# ❌ Sensitive Islamic Queries (Respectful Blocking — No Fatwa, No Misguidance)
+
+fatwa
+issue fatwa
+shariah ruling
+haram or halal decision
+marriage fatwa
+nikah fatwa
+divorce fatwa
+mufti answer
+religious ruling
+kissing halal hai?
+zina ruling
+blasphemy ruling
+punishment in sharia
+quran interpretation by ai
+tafseer by ai
+ai mufti
+fake fatwa
+make quran ai
+
+# ✅ Only Allow Verified Sources (Readonly / Informative)
+
+dawateislami
+kanzul iman
+sirat ul jinan
+tafsir ahle sunnat
+ahadees sharif
+quranic ayat
+hadith books
+sahih bukhari
+sahih muslim
+imam ahmad raza
+imam abu hanifa
+
+➡️ **Note:** These can be used *only via verified pipelines* like DawateIslami's public data — **NO AI INTERPRETATION or FATWA**
+
+---
+
+# 💊 Blocked Medical Terms (Legal Compliance, No Illegal Advice)
+
+antibiotic
+prescribe medicine
+dose of amoxicillin
+painkiller dosage
+self medicate
+drug dose
+buy medicine online
+prescription drug
+injectable medicine
+make vaccine
+vaccine formula
+antibiotic resistance
+buy steroid
+anabolic steroid
+testosterone booster
+
+✅ Only allow:
+- home remedies
+- wellness tips
+- WHO guidelines
+- “see your doctor” suggestions
+
+---
+
+# ⚙️ Medical Machines (Legal Use Only — Allow study, Block misuse)
+
+x-ray machine
+mri machine
+ct scan hardware
+nuclear imaging
+surgical robot
+radiation therapy system
+medical AI robot
+medical camera
+
+❌ Block misuse like:
+- how to hack MRI
+- build medical laser
+- surgery without license
+
+---
+
+🧠 Use this file for:
+- ✅ AI Input filter
+- ✅ SEO funnel filter
+- ✅ Chatbot prompt guard
+- ✅ Legal firewall compliance
+
+⚠️ Strictly Halal | No Fatwa | No Misleading Medical | No Abuse of Tech

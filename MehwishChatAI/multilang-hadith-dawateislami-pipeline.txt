@@ -1,0 +1,84 @@
+📘 Multilingual Hadith Integration – Dawat-e-Islami Data Pipeline
+
+🔒 Source Authentication:
+✔️ Data Source: Dawateislami.net (Official)
+✔️ Content: Hadith in multiple languages
+✔️ Format: JSON/XML scraping or API-based readonly access
+✔️ Compliance: No fatwa, no AI interpretation, no alteration
+
+---
+
+🌐 Supported Languages:
+
+1. Urdu
+2. Arabic
+3. English
+4. Hindi
+5. French
+6. Spanish
+7. Turkish
+8. Persian (Farsi)
+9. Indonesian
+10. Bengali
+
+(✔️ Expandable up to 100 languages using translation layer — NO AI-based Tafsir allowed)
+
+---
+
+🧩 Hadith Types to Include:
+
+✅ Sahih Bukhari  
+✅ Sahih Muslim  
+✅ Sunan Abu Dawood  
+✅ Jami' Tirmidhi  
+✅ Sunan Nasai  
+✅ Sunan Ibn Majah  
+✅ Muwatta Imam Malik  
+✅ Musnad Ahmad  
+✅ Riyadh-us-Saliheen  
+✅ Mishkat-ul-Masabih  
+✅ Shama'il Muhammadiyah
+
+---
+
+🔌 Integration Pipeline:
+
+1. 🛡️ Connect to Dawat-e-Islami Hadith Section (readonly)
+2. 📥 Scrape or access text in Urdu + Arabic (original)  
+3. 🌐 Translate to other languages using verified scholarly translations (no GPT translation)
+4. 📦 Store in a safe DB or `.json` format for multilingual query
+5. ❌ Disallow user-based tafsir / AI interpretation
+
+---
+
+✅ Allowed Use-Cases in AI:
+
+- 🔍 Search Hadith by keyword or book
+- 🗣️ Respond with “According to Sahih Bukhari...” (readonly reference)
+- 📘 Show Arabic + translation
+- 🔇 No opinion, fatwa, or personal explanation
+
+---
+
+🚫 Disallowed:
+
+- ❌ Fatwa generation
+- ❌ Custom tafsir
+- ❌ Editing hadith content
+- ❌ GPT-based religious rulings
+- ❌ Making own hadith summaries
+
+---
+
+📁 Example Data Structure:
+
+```json
+{
+  "book": "Sahih Bukhari",
+  "number": 12,
+  "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ...",
+  "urdu": "اعمال کا دار و مدار نیتوں پر ہے...",
+  "english": "Actions are judged by intentions...",
+  "french": "Les actions sont jugées par les intentions...",
+  "source": "dawateislami.net"
+}
